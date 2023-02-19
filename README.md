@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joannamarapia
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning SAP ABAP and Python
-- 💞️ I’m looking to collaborate on Front-End Web Development
+- 👀 I’m interested in Back-End Web Development
+- 🌱 I’m currently learning SAP ABAP and PHP
+- 💞️ I’m looking to collaborate on Back-End Web Development
 - 📫 How to reach me: ig - kimmichi_
 
 <!---
